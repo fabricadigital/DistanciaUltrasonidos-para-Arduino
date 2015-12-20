@@ -1,0 +1,4 @@
+DistanciaUltrasonidos	KEYWORD1
+obtenerDistancia	KEYWORD2
+establecerPeriodoMaximoRefresco	KEYWORD2
+obtenerPeriodoMaximoRefresco KEYWORD2
